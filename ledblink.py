@@ -1,6 +1,6 @@
 import RPi.GPIO as GPIO
 import time
-wait=0.1
+wait=0.05
 timestoblink=10
 #blinking function
 def blink(pin):
